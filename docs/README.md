@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This project has migrated to **<https://codeberg.org/adamlui/googlegpt>**
+
 <a id="top"></a>
 
 <div align="right">
