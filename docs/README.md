@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This project has migrated to **<https://codeberg.org/adamlui/googlegpt>**
+> This project has migrated to **<https://codeberg.org/KudoAI/googlegpt>**
 
 <a id="top"></a>
 
